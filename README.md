@@ -1,0 +1,1 @@
+# Earthquake-simulator-with-a-strong-motion-monitor-like-interface
